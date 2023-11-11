@@ -1,4 +1,5 @@
-﻿using System.Timers;
+﻿using LAB6BallsF;
+using System.Timers;
 using Timer = System.Timers.Timer;
 
 namespace LAB6BallsF;
