@@ -1,4 +1,4 @@
-﻿using LAB6BallsF;
+﻿//using LAB6BallsF;
 using System.Timers;
 using Timer = System.Timers.Timer;
 

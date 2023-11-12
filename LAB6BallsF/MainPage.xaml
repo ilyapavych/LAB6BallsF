@@ -12,7 +12,7 @@
         <GraphicsView
             Drawable="{StaticResource ballField}"
             x:Name="BallGraphicsView"
-            HeightRequest="1000"  />
+            HeightRequest="1000" />
     </VerticalStackLayout>
 </ContentPage>
 
